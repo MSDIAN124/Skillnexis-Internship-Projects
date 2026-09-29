@@ -151,7 +151,7 @@ The dashboard can be used to generate insights such as:
 ## Project Structure
 
 ```text
-Week-4-Power-BI-Sales-Dashboard/
+Week-4
 │
 ├── README.md
 ├── Sales_Performance_Dashboard.pbix
@@ -165,10 +165,9 @@ Week-4-Power-BI-Sales-Dashboard/
 
 
 
-```markdown
+
 <img width="661" height="373" alt="image" src="https://github.com/user-attachments/assets/a8237712-8db0-470b-a7cd-05721860fb8a" />
 
-```
 
 ## How to Use
 
