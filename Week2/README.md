@@ -144,7 +144,7 @@ ORDER BY total_spent DESC;
 ## Project Structure
 
 ```text
-SQL-Customer-Order-Analysis/
+Week2/
 │
 ├── README.md
 ├── Customer_and_order_analysis_report.docx
