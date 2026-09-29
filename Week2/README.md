@@ -240,14 +240,14 @@ USE sales_analysis;
 
 
     
-💎 Query
+💎 Query:-
 
 
 <img width="455" height="242" alt="Customers with Above average Spending Query" src="https://github.com/user-attachments/assets/aac3a218-fece-45a6-8617-99aa16a86637" />
 
 
 
-💎 Output
+💎 Output:-
 
 
 <img width="462" height="291" alt="Customers with Above average Spending Output" src="https://github.com/user-attachments/assets/4527a460-6545-404f-83c1-f861c76283b0" />
