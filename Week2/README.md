@@ -147,15 +147,17 @@ ORDER BY total_spent DESC;
 SQL-Customer-Order-Analysis/
 │
 ├── README.md
-├── sql_queries.sql
-├── database_schema.sql
-├── sample_data.sql
+├── Customer_and_order_analysis_report.docx
 ├── SQL_Sales_Dataset_200_Rows.xlsx
 └── screenshots/
-    ├── top_customers_result.png
-    ├── average_order_value_result.png
-    ├── customer_order_summary_result.png
-    └── above_average_customers_result.png
+    ├── top_customers_by_total_spending_query.png
+    ├── top_customers_by_total_spending_output.png
+    ├── average_order_value_query.png
+    ├── average_order_value_output.png
+    ├── customer_order_summary_query.png
+    ├── customer_wise_order_summary_output.png
+    ├── customers_with_above_average_spending_query.png
+    └── customers_with_above_average_spending_output.png
 ```
 
 ## How to Run the Project
