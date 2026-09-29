@@ -150,8 +150,8 @@ This project also helped me understand how data analysts create reports that sup
 **Mukesh Samarit**  
 Aspiring Data Analyst | Excel | Power BI | Tableau | SQL  
 
-- GitHub: [Your GitHub Profile Link]
-- LinkedIn: [Your LinkedIn Profile Link]
+- GitHub: https://github.com/MSDIAN124
+- LinkedIn: www.linkedin.com/in/mukesh-samarit
 
 ## Assignment Details
 
