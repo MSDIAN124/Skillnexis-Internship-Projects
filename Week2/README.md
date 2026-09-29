@@ -139,20 +139,7 @@ ORDER BY total_spent DESC;
 - `ROUND()` for formatting monetary values
 - Aliases using `AS` for readable query output
 
-## Key Business Insights
 
-This analysis can help stakeholders understand customer purchasing behavior and revenue contribution.
-
-Possible insights include:
-
-- A small group of high-value customers may contribute a major share of total sales.
-- Customers with high total spending can be targeted through loyalty programs and personalized promotions.
-- Customers with high order counts but low average order value may represent cross-selling or upselling opportunities.
-- Customers with low purchase frequency may require re-engagement campaigns.
-- Average order value can help measure the effectiveness of product bundles, discounts, and promotional offers.
-- Region, category, and product-level analysis can be added in future iterations to identify additional sales opportunities.
-
-> Replace these general insights with actual findings from your query results after adding screenshots or result tables.
 
 ## Project Structure
 
