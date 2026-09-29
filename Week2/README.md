@@ -185,39 +185,40 @@ USE sales_analysis;
 
 ## Screenshots
 
-```markdown
-### Top Customers by Total Spending
-    #Query
+🟠Top Customers by Total Spending
+    💎 QUERY :-
+
 <img width="452" height="204" alt="Top Customers by Total Spending Query" src="https://github.com/user-attachments/assets/a29c4c24-b144-4c5f-9718-b8ba68f930f7" />
 
-    #Output
+    💎 OUTPUT:-
+
 <img width="452" height="174" alt="Top Customers by Total Spending Output" src="https://github.com/user-attachments/assets/9f7bc891-4b1a-41e9-b306-9215b11d4b78" />
 
-
-
-
-### Average Order Value
-    # Query
+🟠Average Order Value
+    💎 QUERY:-
+ 
 <img width="452" height="96" alt="Average Order Value Query" src="https://github.com/user-attachments/assets/3025d3d2-d34b-425e-82d2-61786374340e" />
 
-    #Output
+    💎 OUTPUT:-
+
 <img width="455" height="87" alt="Average Order Value Output" src="https://github.com/user-attachments/assets/bc4ace6a-e122-490e-ba27-1c385d1c4479" />
 
+🟠 Customer-wise Order Summary
+    💎 QUERY:-
 
-### Customer-Wise Order Summary
-    #Query
 <img width="452" height="188" alt="Customer-wise Order Summary Query" src="https://github.com/user-attachments/assets/30660b74-5022-48f4-b836-8735cb45fef1" />
 
-    #Output
+    💎 OUTPUT:-
+
 <img width="455" height="276" alt="Customer-wise Order Summary Output" src="https://github.com/user-attachments/assets/b4dda5fa-5102-42ce-8d24-971cb1ae25fe" />
 
 
 
-### Customers With Above-Average Spending
-    #Query
+🟠 Customers With Above-Average Spending
+    💎 Query
 <img width="455" height="242" alt="Customers with Above average Spending Query" src="https://github.com/user-attachments/assets/aac3a218-fece-45a6-8617-99aa16a86637" />
 
-    #Output
+    💎 Output
 <img width="462" height="291" alt="Customers with Above average Spending Output" src="https://github.com/user-attachments/assets/4527a460-6545-404f-83c1-f861c76283b0" />
 
 
