@@ -1,4 +1,4 @@
-# Financial Sales and Profitability Analysis Using Python
+# 💰Financial Sales and Profitability Analysis Using Python
 
 ## Project Overview
 
@@ -121,7 +121,7 @@ Profit = Net Sales - COGS
 - The largest single transaction loss was approximately **₹38,046.25**.
 - The findings indicate that its pricing, discount, and COGS structure did not reliably cover costs.
 
-## Key Business Insights
+## 💡Key Business Insights
 
 1. Revenue does not always equal profitability: the USA led sales, but France generated the most profit and Germany had the strongest country-level margin.
 2. Government was the largest profit contributor, while Channel Partners was the most efficient segment.
@@ -129,7 +129,7 @@ Profit = Net Sales - COGS
 4. No Discount transactions had the strongest margin, while High discounts had the weakest, indicating that excessive discounting erodes profitability.
 5. Enterprise-Carretera is a critical risk area because 80% of its transactions were loss-making.
 
-## Recommendations
+## 👨🏻‍💻 Recommendations
 
 - Protect and expand the **Government-Paseo** combination because it is the highest profit-generating pairing.
 - Review **Enterprise-Carretera** pricing, COGS, customer contracts, and discounting immediately.
@@ -138,7 +138,7 @@ Profit = Net Sales - COGS
 - Investigate USA product mix, COGS, and discounting because high sales were not converting to the strongest margin.
 - Review Mexico's country-level product mix and cost structure to improve its lower profit contribution.
 
-## Visualizations
+## 📈 Visualizations
 
 The notebook includes the following visualizations:
 
