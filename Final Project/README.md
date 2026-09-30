@@ -158,6 +158,7 @@ Final Project/
 |-- financial_sales_analysis_output.xlsx
 |-- README.md
 |-- Summary.md
+|-- Explanation_Report.pdf
 `-- Charts/
 ```
 
